@@ -14,3 +14,12 @@ I need a 7-day Japan itinerary for April 15-23 from Seattle, with a $2500-5000 b
 ![alt text](picturesapan-travel-plan-1.png)
 
 ![alt text](picturesapan-travel-plan-2.png)
+
+## PDF Form Autofill (NZ Form 9)
+**Prompt**：
+```
+Create a Python example that uses OpenManus to auto-fill the NZ Companies Register
+Form 9 PDF (director consent) with sample data.
+```
+**preview**：
+See `pdf_form_autofill/README.md` for usage instructions.
